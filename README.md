@@ -40,7 +40,7 @@
 [Версия 2](https://books-library-2.herokuapp.com/);
 [Версия 3](https://books-library-3.herokuapp.com/).
 
-**Подробнее читайте в**:[Books](https://github.com/Fedotu/Resume/blob/main/Cakes)
+**Подробнее читайте в**:[Books](https://github.com/Fedotu/Resume/blob/main/Books)
 
 
 ### Контакты и Дополнительная информация
