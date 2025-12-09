@@ -27,7 +27,7 @@
 
 **Тестируемая система:** Веб-сайт [Skyeng](https://skyeng.ru/)
 
-**Подробнее читайте в**:[Skyeng](https://drive.google.com/drive/folders/1jkswkdnuCSg2wKbakv0Y_vxG2syEam_R?usp=sharing)
+**Подробнее читайте в**:[Skyeng](https://github.com/Fedotu/Resume/blob/main/Skyeng)
 
 
 ### **Проект «Основы тестирования.»**
@@ -40,7 +40,7 @@
 [Версия 2](https://books-library-2.herokuapp.com/);
 [Версия 3](https://books-library-3.herokuapp.com/).
 
-**Подробнее читайте в**:[Cakes](https://drive.google.com/drive/folders/1W9VFl30amGQHMKPbLT8qzxD0_JwF9jLR?usp=sharing)
+**Подробнее читайте в**:[Cakes](https://github.com/Fedotu/Resume/blob/main/Cakes)
 
 
 ### Контакты и Дополнительная информация
